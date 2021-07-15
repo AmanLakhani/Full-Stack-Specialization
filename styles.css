@@ -1,0 +1,38 @@
+.jumbotron{
+    padding: 20px;
+    background-color: rgb(131, 131, 238);
+    color: whitesmoke;
+}
+
+.img{
+    padding: 0px 0px 0px 100px;
+}
+
+.edu{
+    border: 2px solid;
+    background-color: cornsilk;
+}
+
+.space{
+    padding-top: 10px;
+}
+
+.table1{
+    border: 2px solid;
+    padding: 5px 75px;
+}
+
+.table2{
+    border: 2px solid;
+    padding: 5px 100px;
+}
+
+.body{
+    z-index: 1;
+}
+
+.bg-clr{
+    background-color: rgb(41, 41, 85);
+    color: whitesmoke;
+    font-size: 150%;
+}
